@@ -151,8 +151,8 @@
               </org.eclipse.ui.views.properties.PropertyDescriptor>
             </propertyDescriptors>
             <stereoType></stereoType>
-            <name>IMove</name>
-            <path>/0724/src/IMove.java</path>
+            <name>.IMove</name>
+            <path>/OOAD-Ex/src/IMove.java</path>
           </target>
           <bendpoints/>
         </net.java.amateras.uml.classdiagram.model.RealizationModel>
@@ -290,8 +290,8 @@
                     </org.eclipse.ui.views.properties.PropertyDescriptor>
                   </propertyDescriptors>
                   <stereoType></stereoType>
-                  <name>Flyable</name>
-                  <path>/0724/src/Flyable.java</path>
+                  <name>.Flyable</name>
+                  <path>/OOAD-Ex/src/Flyable.java</path>
                 </target>
                 <bendpoints/>
               </net.java.amateras.uml.classdiagram.model.RealizationModel>
@@ -430,8 +430,8 @@
               </net.java.amateras.uml.properties.BooleanPropertyDescriptor>
             </propertyDescriptors>
             <stereoType></stereoType>
-            <name>독수리</name>
-            <path>/0724/src/독수리.java</path>
+            <name>.독수리</name>
+            <path>/OOAD-Ex/src/독수리.java</path>
             <isAbstract>false</isAbstract>
           </source>
           <target class="net.java.amateras.uml.classdiagram.model.ClassModel" reference="../../.."/>
@@ -548,8 +548,8 @@
               </net.java.amateras.uml.properties.BooleanPropertyDescriptor>
             </propertyDescriptors>
             <stereoType></stereoType>
-            <name>뱀</name>
-            <path>/0724/src/뱀.java</path>
+            <name>.뱀</name>
+            <path>/OOAD-Ex/src/뱀.java</path>
             <isAbstract>false</isAbstract>
           </source>
           <target class="net.java.amateras.uml.classdiagram.model.ClassModel" reference="../../.."/>
@@ -635,8 +635,8 @@
               </net.java.amateras.uml.properties.BooleanPropertyDescriptor>
             </propertyDescriptors>
             <stereoType></stereoType>
-            <name>고양이</name>
-            <path>/0724/src/고양이.java</path>
+            <name>.고양이</name>
+            <path>/OOAD-Ex/src/고양이.java</path>
             <isAbstract>false</isAbstract>
           </source>
           <target class="net.java.amateras.uml.classdiagram.model.ClassModel" reference="../../.."/>
@@ -722,8 +722,8 @@
               </net.java.amateras.uml.properties.BooleanPropertyDescriptor>
             </propertyDescriptors>
             <stereoType></stereoType>
-            <name>숲속</name>
-            <path>/0724/src/숲속.java</path>
+            <name>.숲속</name>
+            <path>/OOAD-Ex/src/숲속.java</path>
             <isAbstract>false</isAbstract>
           </source>
           <target class="net.java.amateras.uml.classdiagram.model.ClassModel" reference="../../.."/>
@@ -864,8 +864,8 @@
                     </org.eclipse.ui.views.properties.PropertyDescriptor>
                   </propertyDescriptors>
                   <stereoType></stereoType>
-                  <name>I놀기</name>
-                  <path>/0724/src/I놀기.java</path>
+                  <name>.I놀기</name>
+                  <path>/OOAD-Ex/src/I놀기.java</path>
                 </target>
                 <bendpoints/>
               </net.java.amateras.uml.classdiagram.model.RealizationModel>
@@ -983,8 +983,8 @@
               </net.java.amateras.uml.properties.BooleanPropertyDescriptor>
             </propertyDescriptors>
             <stereoType></stereoType>
-            <name>강아지</name>
-            <path>/0724/src/강아지.java</path>
+            <name>.강아지</name>
+            <path>/OOAD-Ex/src/강아지.java</path>
             <isAbstract>false</isAbstract>
           </source>
           <target class="net.java.amateras.uml.classdiagram.model.ClassModel" reference="../../.."/>
@@ -1226,8 +1226,8 @@
         </net.java.amateras.uml.properties.BooleanPropertyDescriptor>
       </propertyDescriptors>
       <stereoType></stereoType>
-      <name>Animal</name>
-      <path>/0724/src/Animal.java</path>
+      <name>.Animal</name>
+      <path>/OOAD-Ex/src/Animal.java</path>
       <isAbstract>false</isAbstract>
     </net.java.amateras.uml.classdiagram.model.ClassModel>
     <net.java.amateras.uml.classdiagram.model.InterfaceModel reference="../net.java.amateras.uml.classdiagram.model.ClassModel/targetConnections/net.java.amateras.uml.classdiagram.model.GeneralizationModel/source/sourceConnections/net.java.amateras.uml.classdiagram.model.RealizationModel/target"/>
@@ -1328,8 +1328,8 @@
         </net.java.amateras.uml.properties.BooleanPropertyDescriptor>
       </propertyDescriptors>
       <stereoType></stereoType>
-      <name>Main</name>
-      <path>/0724/src/Main.java</path>
+      <name>.Main</name>
+      <path>/OOAD-Ex/src/Main.java</path>
       <isAbstract>false</isAbstract>
     </net.java.amateras.uml.classdiagram.model.ClassModel>
     <net.java.amateras.uml.classdiagram.model.ClassModel reference="../net.java.amateras.uml.classdiagram.model.ClassModel/targetConnections/net.java.amateras.uml.classdiagram.model.GeneralizationModel[3]/source"/>
